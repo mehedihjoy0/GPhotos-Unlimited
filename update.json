@@ -1,7 +1,6 @@
 {
-    "version": "8.0.0.674947722",
-    "versionCode": 59236467,
-    "zipUrl": "https://github.com/mehedihjoy0/GPhotos-Unlimited/releases/download/v1.0.0/GPhotos-Unlimited-M-arm64-v8a-MehediHJoy.zip",
-    "changelog": "https://raw.githubusercontent.com/mehedihjoy0/GPhotos-Unlimited/update/changelog.md"
+    "version": "v7.0.0.674947721",
+    "versionCode": 49236466,
+    "zipUrl": "https://github.com/mehedihjoy0/GPhotos-Unlimited/releases/download/v2.0.0/GPhotos-Unlimited-M-arm64-v8a-MehediHJoy.zip",
+    "changelog": "https://raw.githubusercontent.com/mehedihjoy0/GPhotos-Unlimited/main/changelog.md"
 }
-
