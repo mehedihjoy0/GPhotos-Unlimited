@@ -46,17 +46,17 @@ This Magisk module unlocks unlimited Google Photos storage on your device, witho
 ## Changelogs
 
 - **v2.0.0**
-Changelog:
+
 * Updated Google Photos to v7.0.0.674947721
 * Changed the installer base
 
-- **v1.0.0**:
-Changelog:
+- **v1.0.0**
 
-Initial Release.
+* Initial Release.
 
 ## Credits
 -- [**mehedihjoy0**](https://github.com/mehedihjoy0)
+
 -- [**j-hc**](https://github.com/j-hc)
 
 ## Hints
@@ -69,11 +69,12 @@ Initial Release.
 - **x86** = For older desktops, laptops and Intel-based tablets.
 - **x86_64** = For modern desktops and laptops.
 
-##Support & Feedback​
+## Support & Feedback​
 
 Your feedback is invaluable! Please share your experiences, suggestions, and any issues you encounter. Let's make this module even better together.
 
 **Facebook** : [**Mehedi H Joy**](https://www.facebook.com/mehedihjoy0)
+
 **Telegram** : [**Mehedi H Joy**](https://t.me/mehedihjoy0)
 
 ## Disclaimer
