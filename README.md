@@ -1,6 +1,6 @@
 ![Cover Photo](https://github.com/mehedihjoy0/GPhotos-Unlimited/blob/main/cover-photo.png)
 
-# [Module] Unlock Unlimited Google Photos Storage Without LSPosed/Zygisk
+# 🧩[MODULE]🧩 Unlock Unlimited Google Photos 🖼️ Storage Without LSPosed/Zygisk
 
 **Author**: [mehedihjoy0](https://github.com/mehedihjoy0)   
 
