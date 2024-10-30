@@ -28,7 +28,8 @@ This Magisk module unlocks unlimited Google Photos storage on your device, witho
 4. Tap on **Install from Storage**.
 5. Select the downloaded module ZIP file.
 6. Reboot your device.
-
+7. Wait untill the existing version of "Google Photos" automatically be uninstalled and installed the module's version.
+[Don't try to install/update "Google Photos" from "Google Play Sote"]
 
 ## Troubleshooting
 
@@ -44,6 +45,11 @@ This Magisk module unlocks unlimited Google Photos storage on your device, witho
 **A:** The module modifies system behavior to mimic Pixel devices, but always use at your own risk.
 
 ## Changelogs
+
+#**v3.0.0**
+
+* Updated Google Photos to v7.5.0.689431911
+* Added "back up while charging" toggle
 
 #**v2.0.0**
 
@@ -80,3 +86,8 @@ Your feedback is invaluable! Please share your experiences, suggestions, and any
 ## Disclaimer
 
 Use this module at your own risk. I am not responsible for any damage to your device or data loss.
+
+## Troubleshoot
+
+* If you have any problem with this module, restart your phone and wait for 2 minutes.
+* If you cleared the data of "Google Play Store", detaching will be removed. In this time, "Google Photos" may be auto updated.
