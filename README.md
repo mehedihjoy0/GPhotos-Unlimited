@@ -34,7 +34,8 @@ This Magisk module unlocks unlimited Google Photos storage on your device, witho
 ## Troubleshooting
 
 - If you encounter any issues, try clearing the cache of the Google Photos app.
-
+- If you have any problem with this module, restart your phone and wait for 2 minutes.
+- If you cleared the data of "Google Play Store", detaching will be removed. In this time, "Google Photos" may be auto updated.
 
 ## FAQs
 
@@ -86,8 +87,3 @@ Your feedback is invaluable! Please share your experiences, suggestions, and any
 ## Disclaimer
 
 Use this module at your own risk. I am not responsible for any damage to your device or data loss.
-
-## Troubleshoot
-
-* If you have any problem with this module, restart your phone and wait for 2 minutes.
-* If you cleared the data of "Google Play Store", detaching will be removed. In this time, "Google Photos" may be auto updated.
