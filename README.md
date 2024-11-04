@@ -30,7 +30,7 @@ This Magisk module unlocks unlimited Google Photos storage on your device, witho
 6. Reboot your device.
 7. Wait untill the existing version of "Google Photos" automatically be uninstalled and installed the module version.
 
->[Don't try to install/update "Google Photos" from "Google Play Store"]
+>⚠️Don't try to install/update "Google Photos" from "Google Play Store"
 
 ## Troubleshooting
 
