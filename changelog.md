@@ -1,3 +1,9 @@
+# v4.0.0
+Changelog:
+* Updated Google Photos to v7.10.0.703144258
+* Updated the installer base
+* Fixed auto uninstalling after reboot problem
+
 # v3.0.0
 Changelog:
 * Updated Google Photos to v7.5.0.689431911
