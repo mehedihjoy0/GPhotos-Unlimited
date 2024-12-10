@@ -1,6 +1,6 @@
 ![Cover Photo](https://github.com/mehedihjoy0/GPhotos-Unlimited/blob/main/cover-photo.png)
 
-# 🧩[MODULE]🧩 Unlock Unlimited Google Photos 🖼️ Storage Without LSPosed/Zygisk
+# 🧩[MODULE]🧩 GPhotos-Unlimited Without LSPosed/Zygisk
 
 **Author**: [mehedihjoy0](https://github.com/mehedihjoy0)   
 
@@ -47,6 +47,12 @@ This Magisk module unlocks unlimited Google Photos storage on your device, witho
 **A:** The module modifies system behavior to mimic Pixel devices, but always use at your own risk.
 
 ## Changelogs
+
+#**v4.0.0**
+
+* Updated Google Photos to v7.10.0.703144258
+* Updated the installer base
+* Fixed auto uninstalling after reboot problem
 
 #**v3.0.0**
 
